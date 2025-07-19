@@ -32,7 +32,7 @@ This repository contains a Power BI project that visualizes real-time weather co
 - Power BI Desktop (.pbix)
 - Weather API
 - DAX & Power Query
-- Custom visuals (if any)
+- Custom visuals 
 
 ## 📁 Project Structure
 
