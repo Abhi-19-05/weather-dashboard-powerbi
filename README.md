@@ -19,11 +19,11 @@ This repository contains a Power BI project that visualizes real-time weather co
 
 ### 🖼️ Preview
 
-![Dashboard Screenshot](./assets/Screenshot.png)
+![Dashboard Screenshot](./assets/Weather_Dashboard_Screenshot.jpg)
 
 ## 🔌 Data Source
 
-- **API Used:** [WeatherAPI](https://www.weatherapi.com/)
+- **API Used:** [WeatherAPI](https://www.weatherapi.com//)
 - Data was fetched using Power BI Web connector or Python/Power Query script
 - Live and historical weather data processed for visualizations
 
@@ -38,7 +38,7 @@ This repository contains a Power BI project that visualizes real-time weather co
 
 - `Dashboard/Weather_Dashboard.pbix` – Main Power BI report file
 - `assets/` – Screenshots and charts used in documentation
-- `docs/` – Data source details and data modeling notes
+  
 
 ## 🚀 How to Use
 
